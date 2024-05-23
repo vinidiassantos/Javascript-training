@@ -6,7 +6,7 @@
     <title>Document new</title>
 </head>
 <body>
-    <h2>Testing javascript</h2>
+    <h2>Javascript</h2>
     <p>Can you change a light function?</p>
     <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
 
